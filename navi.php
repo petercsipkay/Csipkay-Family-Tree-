@@ -9,17 +9,18 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">Csipkay Family</a>
+      <a class="navbar-brand" href="index.php">Csipkay Családfa</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="index.php">Home<span class="sr-only">(current)</span></a></li>
-        <li><a href="cimer.php">Nobility</a></li>
-           <li><a href="csaladfa.php">Family Tree</a></li>
+        <li class="active"><a href="index.php">Főoldal<span class="sr-only">(current)</span></a></li>
+        <li><a href="cimer.php">Címer tőrtenete</a></li>
+           <li><a href="csaladfa.php">Családfa</a></li>
+           <li><a href="dokumentum.zip">Dokumentumok letöltése</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Historys<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Törtenetek<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="csipkayalbert.php">Csipkay Albert</a></li>
             <li><a href="csipkaysandor.php">Csipkay Sándór Lajós</a></li>
@@ -29,7 +30,7 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nyelv<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="english/index.php">English</a></li>
             <li><a href="../index.php">Magyar</a></li>
